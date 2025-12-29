@@ -1,0 +1,24 @@
+{
+  "name": "USDT.z",
+  "symbol": "USDT.z",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "USDT.z token on BNB Smart Chain.",
+  "website": "https://YOUR_WEBSITE_HERE",
+  "explorer": "https://bscscan.com/token/0x84337E0A1963893125fa4EC4c71C95288d209650",
+  "status": "active",
+  "id": "0x84337E0A1963893125fa4EC4c71C95288d209650",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/YOUR_TELEGRAM"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/YOUR_X"
+    }
+  ],
+  "tags": [
+    "defi"
+  ]
+}
